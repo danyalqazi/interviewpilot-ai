@@ -344,13 +344,13 @@ function App() {
           <div className="flex justify-center mb-5">
 
             <div className="w-20 h-20 rounded-3xl bg-gradient-to-r from-cyan-500 to-blue-600 flex items-center justify-center text-4xl shadow-lg">
-              🎯
+              <img src="/favicon.svg" alt="Logo" className="w-150 h-30" />
             </div>
 
           </div>
 
           <h1 className="text-5xl font-extrabold tracking-wide text-white">
-            InterviewPilot AI
+            CRACK Smart
           </h1>
 
           <p className="text-slate-400 mt-3 text-lg">
